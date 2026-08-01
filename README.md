@@ -68,7 +68,6 @@ Example:
 ![OSPF](Screenshots/ospf-neighbor.png)
 
 ### ACL Security Configuration
-![ACL Security](Screenshots/acl-security.png)
-
+![ACL Test](Screenshots/acl-test.png)
 ### ACL Test Result
 ![ACL Test](Screenshots/acl-test-result.png)
