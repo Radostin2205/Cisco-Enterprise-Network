@@ -71,4 +71,4 @@ Example:
 ![ACL Security](Screenshots/acl-security.png)
 
 ### ACL Test Result
-![ACL Test](screenshots/acl-test-result.png)
+![ACL Test](Screenshots/acl-test-result.png)
