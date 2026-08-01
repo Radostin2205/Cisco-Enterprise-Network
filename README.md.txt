@@ -56,19 +56,19 @@ Example:
 ## Screenshots
 
 ### Network Topology
-![Topology](screenshots/topology.png)
+![Topology](Screenshots/topology.png)
 
 ### VLAN Configuration
-![VLANs](screenshots/vlans.png)
+![VLANs](Screenshots/vlans.png)
 
 ### Trunk Configuration
-![Trunk](screenshots/trunk.png)
+![Trunk](Screenshots/trunk.png)
 
 ### OSPF Neighbor
-![OSPF](screenshots/ospf-neighbor.png)
+![OSPF](Screenshots/ospf-neighbor.png)
 
 ### ACL Security Configuration
-![ACL Security](screenshots/acl-security.png)
+![ACL Security](Screenshots/acl-security.png)
 
 ### ACL Test Result
 ![ACL Test](screenshots/acl-test-result.png)
