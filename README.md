@@ -53,6 +53,12 @@ Example:
 
 ## Verification Commands
 
+show ip route  
+show ip ospf neighbor  
+show vlan brief  
+show interfaces trunk  
+show access-lists  
+
 ## Screenshots
 
 ### Network Topology
