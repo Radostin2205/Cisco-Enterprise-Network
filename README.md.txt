@@ -56,7 +56,7 @@ Example:
 ## Screenshots
 
 ### Network Topology
-![Topology](Screenshots/topology.png)
+<img src="./Screenshots/topology.png">
 
 ### VLAN Configuration
 ![VLANs](Screenshots/vlans.png)
